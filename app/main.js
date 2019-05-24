@@ -4,7 +4,7 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var $ = require('jquery');
 
-var APP_ACCESS_TOKEN = '924314550989801|JZbwxfRSyxsDKxIK44cBDUlEWs0';
+var APP_ACCESS_TOKEN = '<api-key-here>';
 var PAGE_SEARCH_URL = 'https://graph.facebook.com/search';
 
 
